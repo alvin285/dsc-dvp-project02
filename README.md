@@ -1,4 +1,4 @@
-# Project 2: More Data, More Visualizations
+FOOD SECURITY ANALYSIS IN UGANDA KARAMOJA(2017).
 
 For this project, the students will:
 * find a data set of their choosing
