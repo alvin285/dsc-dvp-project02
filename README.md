@@ -8,6 +8,7 @@ This project  devel;ops an interactrive data visualisation dashboard to supportr
 The dashboard serves as afirstr mock-up of a Food Security Monitoring Tool for decision-making by NGOs operating in Karamoja,.
 
 BUSINESS PROPBLEM.
+
 NGOs operating in Karamoja:
 -Lack visibility into regional crop productivity patterns.
 -Rely on localised or incomplete information.
@@ -17,6 +18,33 @@ NGOs operating in Karamoja:
 Without a structured monitoring tool, resource allocation may be inefficient and slow, especially in drought-prone and vulnerable regions.
 
 PROJECT OBKECTIVES.
+
+The main objective of this project is to design and develop an interactive dashboard that:
+*Visualizes crop yields(kg/Ha) for sorghum and maize.
+*Display total crop area and total production.
+*Integrate population data to assess food security vulnerability.
+*Allows analysis of both;
+   -District level.
+   -Sub-county level.
+*include geographical map visualization for spatial analysis.
+*Compare between sorghum and maize productivity.
+
+KEY QUESTIONS.
+
+-Which districts and subcounties have the lowest crop yields?
+-How does crop yield vary across districts?
+-Which district have a high population but low production?
+-Which subcounty produce the most total food?
+-Which subcounties contribute most to District production?
+
+FINAL GOAL.
+
+The final goal of this project is to provide NGOs with a data-driven decision support tool that:
+-identifies areas with high crop yield.
+-supports targeted food security interventions.
+improves monitoring of agricultural productivity trends.
+
+
 
 
 Data Understanding
