@@ -1,10 +1,29 @@
 FOOD SECURITY ANALYSIS IN UGANDA KARAMOJA(2017).
 
-For this project, the students will:
-* find a data set of their choosing
-* get approval from the instructor to use that data set
-* upon approval, find another (related) data set
-* join the new data set with the original one to create an "enriched" data set
-* perform an open-ended Exploratory Data Analysis (EDA) on the enriched data set
+PROJECT OVERVIEW.
 
-Regarding the last bullet, "open-ended" means the student chooses the EDA that is performed. The student should have at least three types of data analysis (e.g., mean, standard deviation) and at least three types of graphs (e.g., historgram, bar graph). The student will explain why those variables were chosen for numerical or graphical analysis. Finally, the student will make note of any unusual values for any variable that is analyzed.
+Karamoja is the most food-insecure region of Uganda, experiencing persistent droughts, pest outbreaks and low agricultural productivity.Several NGOs operate in the region to supporrt farmers with technical assistance and farm inputs.Hoewever they lack a data-driven tool to monitor cropyields and food securioty trends across administrative levels.
+
+This project  devel;ops an interactrive data visualisation dashboard to supportr food security monitorinhg for the 2017 season.The tool focusses on remotely measured yields of sorghum and maize using satellite-based data and administrative boundary shapefiles(district and sub-county level)
+The dashboard serves as afirstr mock-up of a Food Security Monitoring Tool for decision-making by NGOs operating in Karamoja,.
+
+BUSINESS PROPBLEM.
+NGOs operating in Karamoja:
+-Lack visibility into regional crop productivity patterns.
+-Rely on localised or incomplete information.
+-Struggle to prioritize interventions effectively.
+-Cannot easily compare productivity across districts and sub-counties.
+-Do not have a centralised visual tool combining yield,area,production and population data.
+Without a structured monitoring tool, resource allocation may be inefficient and slow, especially in drought-prone and vulnerable regions.
+
+PROJECT OBKECTIVES.
+
+
+Data Understanding
+I will be dealing with the following data:
+
+Uganda Karamoja District Crop Yield
+Uganda Karamoja Subcounty Crop Yield
+Below is the data composition;
+
+Yield and Population per Subcounty
