@@ -11,30 +11,46 @@ BUSINESS PROPBLEM.
 
 NGOs operating in Karamoja:
 -Lack visibility into regional crop productivity patterns.
+
 -Rely on localised or incomplete information.
+
 -Struggle to prioritize interventions effectively.
+
 -Cannot easily compare productivity across districts and sub-counties.
+
 -Do not have a centralised visual tool combining yield,area,production and population data.
+
 Without a structured monitoring tool, resource allocation may be inefficient and slow, especially in drought-prone and vulnerable regions.
+
 
 PROJECT OBJECTIVES.
 
 The main objective of this project is to design and develop an interactive dashboard that:
+
 *Visualizes crop yields(kg/Ha) for sorghum and maize.
+
 *Display total crop area and total production.
+
 *Integrate population data to assess food security vulnerability.
+
 *Allows analysis of both;
    -District level.
    -Sub-county level.
+   
 *include geographical map visualization for spatial analysis.
+
 *Compare between sorghum and maize productivity.
 
 KEY QUESTIONS.
 
 -Which districts and subcounties have the lowest crop yields?
+
 -How does crop yield vary across districts?
+
 -Which district have a high population but low production?
+
 -Which subcounty produce the most total food?
+
 -Which subcounties contribute most to District production?
 
 FINAL GOAL.
