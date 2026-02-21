@@ -17,7 +17,7 @@ NGOs operating in Karamoja:
 -Do not have a centralised visual tool combining yield,area,production and population data.
 Without a structured monitoring tool, resource allocation may be inefficient and slow, especially in drought-prone and vulnerable regions.
 
-PROJECT OBKECTIVES.
+PROJECT OBJECTIVES.
 
 The main objective of this project is to design and develop an interactive dashboard that:
 *Visualizes crop yields(kg/Ha) for sorghum and maize.
